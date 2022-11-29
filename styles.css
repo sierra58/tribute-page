@@ -1,0 +1,78 @@
+body {
+    font-family: arial, sans-serif;
+    background-color: #101010;
+    color: #e2e2e2;
+    width: 65vw;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    font-size: 3rem;
+    margin-bottom: -10px;
+  }
+  
+  h2 {
+    font-size: 2rem;
+  }
+  
+  h1, h2, h3, #title-desc, blockquote, #link-desc {
+    text-align: center;
+  }
+  
+  .letter-spacing {
+    letter-spacing: 1px;
+  }
+  
+  ul {
+    width: 75vw;
+  }
+  
+  figcaption {
+    font-size: 0.75rem;
+    text-align: right;
+  }
+  
+  #bio-para {
+    line-height: 2.5rem;
+    text-align: justify;
+    text-justify: inter-word;
+  }
+  
+  li {
+    padding: 10px 0;
+  }
+  
+  cite {
+    padding-right: 310px;
+  }
+  
+  figure {
+    margin: 30px auto 0 auto;
+  }
+  
+  img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  a {
+    color: #c7beff;
+  }
+  
+  a:hover {
+    color: #fff9be;
+  }
+  
+  blockquote {
+    padding: 40px 0 80px 0;
+  }
+  
+  #link-desc {
+    padding: 40px;
+  }
+  
+  hr {
+    margin: 40px 0;
+  }
